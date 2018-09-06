@@ -24,7 +24,7 @@ aside{
 div{
 	margin-left: 20%;
     position: fixed;
-    background-color: rgb(162 234 224);
+    height: 100%;
 }
 
 #bg{
@@ -38,4 +38,31 @@ a:link, a:visited {
 
 a:hover{
 	color: aqua;
+}
+
+#profile{
+	border-radius: 50%;
+	width: 200px;
+	height: 255px;
+	float: right;
+	margin-left: 50px;
+}
+
+#about {
+	margin-left: 20%;
+    position: fixed;
+    height: 100%;
+    padding: 50px 70px 0px 70px;
+    background-color: aliceblue;
+}
+
+#info{
+	font-size: 20pt;
+	text-align: justify;
+}
+
+#maskot {
+	margin-top: 30px;
+	width: 230px;
+	height: 200px;
 }
