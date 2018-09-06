@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+}
+
+aside{
+    list-style-type: none;
+    padding: 175px 0px 0px 20px;
+    margin: 0;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    font-size: 35pt;
+}
+
+div{
+	margin-left: 20%;
+    position: fixed;
+}
