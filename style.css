@@ -26,3 +26,16 @@ div{
     position: fixed;
     background-color: rgb(162 234 224);
 }
+
+#bg{
+	height: 630px;
+}
+
+a:link, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover{
+	color: aqua;
+}
