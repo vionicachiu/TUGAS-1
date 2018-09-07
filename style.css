@@ -14,7 +14,7 @@ body{
 
 aside{
     list-style-type: none;
-    padding: 15% 0% 0% 3%;
+    padding: 13% 0% 0% 3%;
     position: fixed;
     margin: 0;
     width: 15%;
@@ -168,4 +168,35 @@ table, td, th, tr{
 	font-weight: bold;
 	margin: 5% 0% 1% 0%;
 	color: gold;
+}
+
+#fav {
+    background-color: aliceblue;
+    margin-left: 18%;
+    padding: 0% 5% 0% 5%;
+}
+
+.brt{
+	font-size: 25pt;
+	text-align: left;
+	margin-top: 3%;
+    list-style-type: none;
+}
+
+.i{
+	text-indent: 5%;
+	color: grey;
+	margin: 0;
+}
+
+.awal{
+	text-indent: 5%;
+	text-align: justify;
+	font-size: 15pt;
+}
+
+#fav2{
+    background-color: aliceblue;
+    margin-left: 18%;
+    padding: 0% 5% 0% 5%;
 }
