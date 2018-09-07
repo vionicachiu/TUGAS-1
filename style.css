@@ -147,3 +147,16 @@ table, td, th, tr{
 	margin: 5% 0% 1% 0%;
 	color: gold;
 }
+
+.subjudul{
+	text-align: center;
+}
+
+#exp{
+	text-align: center;
+	font-family: 'IndexFont';
+	font-size: 35pt;
+	font-weight: bold;
+	margin: 5% 0% 1% 0%;
+	color: gold;
+}
