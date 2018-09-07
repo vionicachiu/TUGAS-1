@@ -5,7 +5,11 @@ body{
 @font-face{
     font-family: 'IndexFont';
     src: url('font/JennaSue.ttf');
+}
 
+@font-face{
+    font-family: 'NamesFont';
+    src: url('font/Sun Valley - Demo.ttf');
 }
 
 aside{
@@ -85,7 +89,7 @@ a:hover{
 	height: 200px;
 }
 
-table, tr, td{
+#tbcontact{
 	vertical-align: middle;
 	font-size: 20pt;
 }
@@ -96,14 +100,50 @@ td{
 
 #portfolio{
     background-color: aliceblue;
-    font-size: 20pt;
     margin-left: 18%;
-    padding: 0% 7% 0% 7%;
+    padding: 0% 5% 0% 5%;
 }
 
 #isi{
-	background-color: yellow;
-	font-size: 20pt;
+	background-color: white;
+	font-size: 17pt;
 	margin: 0;
+	padding: 3%;
 }
 
+h1{
+	font-family: 'NamesFont';
+	font-size: 85pt;
+	text-align: center;
+	margin: 0;
+	color: rgb(240 60 79);
+}
+
+nav{
+	text-align: center;
+	font-family: 'IndexFont';
+	font-size: 30pt;
+	font-weight: bold;
+}
+
+table, td, th, tr{
+	text-align: justify;
+}
+
+#pd{
+	text-align: center;
+	font-family: 'IndexFont';
+	font-size: 35pt;
+	font-weight: bold;
+	margin: 5% 0% 1% 0%;
+	color: gold;
+}
+
+#edu{
+	text-align: center;
+	font-family: 'IndexFont';
+	font-size: 35pt;
+	font-weight: bold;
+	margin: 5% 0% 1% 0%;
+	color: gold;
+}
