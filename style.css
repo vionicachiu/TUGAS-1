@@ -200,3 +200,18 @@ table, td, th, tr{
     margin-left: 18%;
     padding: 0% 5% 0% 5%;
 }
+
+.album{
+    margin: 0% auto 0% auto;
+    padding-top: 3%;
+    display: block;
+    width: 250px;
+    height: 250px;
+
+}
+
+.berita{
+	text-indent: 5%;
+	text-align: justify;
+	font-size: 15pt;
+}
